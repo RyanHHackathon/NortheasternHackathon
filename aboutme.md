@@ -1,16 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About us
+subtitle: A Focus on Privacy
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+The Ludlow Institute hopes to inform and educate people on privacy, an increasingly scarce resource. We do this by hosting content on Youtube, as well as hosting events like this Hackathon. When our team of researchers began to look into Smart TVs, we felt compelled to get the message out about the problems with their security, which led us to collaborate with Professor David Choffnes, the Executive Director of the Cybersecurity and Privacy Institute. 
