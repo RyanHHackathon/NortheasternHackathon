@@ -3,7 +3,7 @@ layout: post
 title: What?
 subtitle: What is this contest?
 tags: [test]
-thumbnail-img: ludlow_logo+cropped.jpg
+thumbnail-img: /assets/img/ludlow_logo+cropped.jpg
 author: Ludlow Institute
 ---
 
