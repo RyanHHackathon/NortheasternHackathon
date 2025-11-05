@@ -2,7 +2,7 @@
 layout: post
 title: Who
 subtitle: Who is behind this?
-thumbnail-img: Assets/img/ludlow_logo+cropped.jpg
+thumbnail-img: /assets/img/ludlow_logo+cropped.jpg
 tags: [test]
 author: Ludlow Institute
 ---
